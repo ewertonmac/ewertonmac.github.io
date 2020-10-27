@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(250, 235, 215);
+    text-align: center;
+}
+
+div{
+    display: flex;
+    flex-flow: column;
+    height: 100vh;
+    justify-content: center;
+}
